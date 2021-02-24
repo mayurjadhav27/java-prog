@@ -1,5 +1,5 @@
 package string_calculator;
-public class Calculator{
+public class JUnitcal{
 	public static int Add(String text){
 		if(text.length()==0){
 		return 0;
